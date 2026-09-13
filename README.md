@@ -40,3 +40,4 @@ This project involves analyzing retail pizza sales transaction records to evalua
 - **Data Analysis & Dashboard:** Google Sheets / MS Excel
 - **Screen Recording:** OBS Studio
 - **Version Control & Hosting:** GitHub & Google Drive
+- **Google Drive Link:** https://drive.google.com/file/d/18W_l548pvHcyFE4N3Ya6yh_xUCY_ko-V/view?usp=sharing
